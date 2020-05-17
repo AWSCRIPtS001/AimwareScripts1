@@ -5,3 +5,8 @@ approved_scripts|[Onyx] Profile Changer|https://aimware.net/forum/thread-129480.
 approved_scripts|Rainbow / Glitch preserve killfeed|https://aimware.net/forum/thread-133948.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/killfeed.lua|Cheeseot|133948
 approved_scripts|Menu Translator|https://aimware.net/forum/thread-132101.html|https://pastebin.com/raw/XeZ8JVKP|Zerdos|132101
 approved_scripts|Movement Recorder|https://aimware.net/forum/thread-131329.html|https://raw.githubusercontent.com/stqcky/Aimware-Recorder/master/Recorder.lua|stacky|131329
+approved_scripts|No Shadows|https://aimware.net/forum/thread-120723.html|https://pastebin.com/raw/ATcnK0pm|GhostZ|120723
+approved_scripts|AA At targets|https://aimware.net/forum/thread-128555.html|https://pastebin.com/raw/QsEGaQNR|KKKace|128555
+approved_scripts|Better Recoil Crosshair|https://aimware.net/forum/thread-95902.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Recoil%20Crosshair.lua|Cheeseot|95902
+approved_scripts|Animated menu background|https://aimware.net/forum/thread-112406.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Animated%20Background.lua|Cheeseot|112406
+approved_scripts|Health Chams|https://aimware.net/forum/thread-111726.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Health%20Chams.lua|Cheeseot|111726
