@@ -1,0 +1,7 @@
+-- Category, forum title, forum url, raw code url, author, forum thread id
+approved_scripts|auto peek / quick peek|https://aimware.net/forum/thread-130062.html|https://pastebin.com/raw/PnJ5w43t|ferrariboi|130062
+approved_scripts|Engine Radar|https://aimware.net/forum/thread-88645.html|https://pastebin.com/raw/GncrFcTU|- Luiz|88645
+approved_scripts|[Onyx] Profile Changer|https://aimware.net/forum/thread-129480.html|https://raw.githubusercontent.com/Onyx-Programming/Onyx-ProfileChanger/master/%5BOnyx%5D%20ProfileChanger.lua|OurmineOGTv|129480
+approved_scripts|Rainbow / Glitch preserve killfeed|https://aimware.net/forum/thread-133948.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/killfeed.lua|Cheeseot|133948
+approved_scripts|Menu Translator|https://aimware.net/forum/thread-132101.html|https://pastebin.com/raw/XeZ8JVKP|Zerdos|132101
+approved_scripts|Movement Recorder|https://aimware.net/forum/thread-131329.html|https://raw.githubusercontent.com/stqcky/Aimware-Recorder/master/Recorder.lua|stacky|131329
