@@ -192,7 +192,7 @@ local temp_path = "lua_loader/temp_files/"
 
 
 pprint("Loaded")
-
+local updated = false
 function CheckForUpdate()
 	http.Get("https://raw.githubusercontent.com/AWSCRIPtS001/AimwareScripts1/master/lua_loader.lua", function(text)
 		if string.len(text) ~= string.len(file.Contents(GetScriptName())) then
@@ -200,6 +200,7 @@ function CheckForUpdate()
 			local f = file.Open(GetScriptName(), "a")
 			f:Write(text)
 			f:Close()
+			updated = true
 			gui.Command("lua.unload " .. GetScriptName())
 		end
 	end)
