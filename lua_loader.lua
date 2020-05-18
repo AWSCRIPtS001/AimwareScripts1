@@ -204,7 +204,7 @@ function CheckForUpdate()
 		end
 	end)
 end
-
+CheckForUpdate()
 
 function GetAutorunLuaScripts()
 	return split(file.Contents("lua_loader/autorun_scripts.dat"), "\n")
