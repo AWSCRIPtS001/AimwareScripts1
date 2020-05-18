@@ -645,6 +645,7 @@ end
 callbacks.Register("Draw", "heartbeat", heartbeat)
 
 callbacks.Register("Unload", function()
+	if updated then return end
 	pprint("Unhooking functions", "-")
 	callbacks.Unregister("Draw", "heartbeat")
 	callbacks.Unregister("Draw", "endadjust_layout")
