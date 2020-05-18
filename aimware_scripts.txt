@@ -1,4 +1,9 @@
 -- Category, forum title, forum url, raw code url, author, forum thread id
+approved_scripts|Fake unbox / trade / ban messages and vote troll (UPDATED FOR V5)|https://aimware.net/forum/thread-112535.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Fake%20Name.lua|Cheeseot|112535
+approved_scripts|Rainbow / Glitch preserve killfeed|https://aimware.net/forum/thread-133948.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/killfeed.lua|Cheeseot|133948
+approved_scripts|Vote revealer (UPDATED FOR V5)|https://aimware.net/forum/thread-105172.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Vote%20Revealer.lua|Cheeseot|105172
+approved_scripts|AdvancedChams|https://aimware.net/forum/thread-132349.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/AdvancedChams/AdvancedChams.lua|Cheeseot|132349
+approved_scripts|[Onyx] Profile Changer|https://aimware.net/forum/thread-129480.html|https://raw.githubusercontent.com/Onyx-Programming/Onyx-ProfileChanger/master/%5BOnyx%5D%20ProfileChanger.lua|OurmineOGTv|129480
 approved_scripts|auto peek / quick peek|https://aimware.net/forum/thread-130062.html|https://pastebin.com/raw/PnJ5w43t|ferrariboi|130062
 approved_scripts|Engine Radar|https://aimware.net/forum/thread-88645.html|https://pastebin.com/raw/GncrFcTU|- Luiz|88645
 approved_scripts|[Onyx] Profile Changer|https://aimware.net/forum/thread-129480.html|https://raw.githubusercontent.com/Onyx-Programming/Onyx-ProfileChanger/master/%5BOnyx%5D%20ProfileChanger.lua|OurmineOGTv|129480
