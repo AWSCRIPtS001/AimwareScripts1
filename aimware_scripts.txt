@@ -10,3 +10,21 @@ approved_scripts|AA At targets|https://aimware.net/forum/thread-128555.html|http
 approved_scripts|Better Recoil Crosshair|https://aimware.net/forum/thread-95902.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Recoil%20Crosshair.lua|Cheeseot|95902
 approved_scripts|Animated menu background|https://aimware.net/forum/thread-112406.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Animated%20Background.lua|Cheeseot|112406
 approved_scripts|Health Chams|https://aimware.net/forum/thread-111726.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Health%20Chams.lua|Cheeseot|111726
+unapproved_scripts|Null bind|https://aimware.net/forum/thread-134020.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/null.lua|stacky|134020
+unapproved_scripts|Bullet Impacts|https://aimware.net/forum/thread-134276.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/BulletImpacts.lua|stacky|134276
+unapproved_scripts|Automatic Resolver|https://aimware.net/forum/thread-120847.html|https://raw.githubusercontent.com/superyor/AutomaticResolver/master/Automatic%20Resolver.lua|Clipper|120847
+unapproved_scripts|Picture ESP - 1.4 - V5 Compatible|https://aimware.net/forum/thread-119303.html|https://raw.githubusercontent.com/superyor/pictureESP/master/Picture%20ESP.lua|Clipper|119303
+unapproved_scripts|Extra Hit Effects (Menu rework and more features)|https://aimware.net/forum/thread-134110.html|https://raw.githubusercontent.com/lennonc1atwit/Luas/master/ExtraHitEffects.Lua|Scape|134110
+unapproved_scripts|Fortnite Hud|https://aimware.net/forum/thread-132699.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/Fortnite%20Hud/FortniteHud.lua|stacky|132699
+unapproved_scripts|Disable Spectators List when noone's spectating|https://aimware.net/forum/thread-133981.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/SpectatorsListDisabler.lua|stacky|133981
+unapproved_scripts|Discord Ping [Send Match Info To Discord Channel]|https://aimware.net/forum/thread-133581.html|https://raw.githubusercontent.com/HridayHS/aimware_lua_scripts/master/DiscordPing.lua|hridayhsbot|133581
+unapproved_scripts|indamage behind wall|https://aimware.net/forum/thread-101070.html|https://raw.githubusercontent.com/DatIsKlar/aimware-lua/master/damage%20behind%20wall|JohnK.|101070
+unapproved_scripts|x88Software Menu\UI|https://aimware.net/forum/thread-129780.html|https://raw.githubusercontent.com/w1ldac3/x88Cheats-UI-Lua/master/Modules/x88Default.lua|w1ldac3|129780
+unapproved_scripts|Double Fire Movement Fix|https://aimware.net/forum/thread-134414.html|https://raw.githubusercontent.com/zer420/DT-Movement-Fix/master/core.lua|Zerdos|134414
+unapproved_scripts|Scoreboard Changer|https://aimware.net/forum/thread-134270.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/ScoreBoardChanger.lua|stacky|134270
+unapproved_scripts|Main Menu Model Changer & Fortnite Dances|https://aimware.net/forum/thread-132364.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/Main%20Menu%20Model%20Changer%20%26%20Fortnite%20Dances/MainMenuModelChanger.lua|stacky|132364
+unapproved_scripts|Project Dump Mania Downloader|https://aimware.net/forum/thread-133216.html|https://raw.githubusercontent.com/ieathumanslol/Project-Dump-Mania/master/ProjectDumpmania.lua|90D5p33D|133216
+unapproved_scripts|Safe mode for deleting/resetting configs|https://aimware.net/forum/thread-134555.html|https://raw.githubusercontent.com/Cheese0t/Aimware-Luas/master/Safe%20Configs.lua|Cheeseot|134555
+unapproved_scripts|Quit Game on Death|https://aimware.net/forum/thread-134505.html|https://raw.githubusercontent.com/stqcky/AimwareScripts/master/QuitGameOnDeath.lua|stacky|134505
+unapproved_scripts|BetterESP|https://aimware.net/forum/thread-121326.html|https://raw.githubusercontent.com/superyor/BetterESP/master/BetterESP.lua|Clipper|121326
+unapproved_scripts|Healthshot hitsound with fovshot|https://aimware.net/forum/thread-116236.html|https://raw.githubusercontent.com/iSunOfficial/Aimware-luas/master/HealthshotHitmarker.lua|iSun|116236
